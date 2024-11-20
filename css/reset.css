@@ -1,0 +1,11 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Jersey+10&family=Matemasie&family=Pixelify+Sans:wght@400..700&display=swap');*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    border: none;
+    /*font-family: "Arvo", Sans-Serif;*/
+    font-family: fantasy;
+    font-weight: 800;
+}
